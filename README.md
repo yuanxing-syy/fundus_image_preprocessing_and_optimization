@@ -15,8 +15,12 @@ $ python run.py
 <img src="https://github.com/yuanxing-syy/fundus_image_preprocessing_and_optimization/raw/master/path/out/实验效果.png" width="60%" height="60%"></img>  
 ## 实验评价及优化 
 优点：能精准切割圆形区域  
-缺点：对图片的处理速度较慢，为2s多/张  
+
+缺点：对图片的处理速度较慢，为2s多/张 
+
 优化思路：
+
 <img src="https://github.com/yuanxing-syy/fundus_image_preprocessing_and_optimization/raw/master/path/out/优化.png" width="60%" height="60%"></img>   
-优化效果：相比于优化之前，精度略微下降，速度提高很多  
+优化效果：相比于优化之前，精度略微下降，速度提高很多 
+
 <img src="https://github.com/yuanxing-syy/fundus_image_preprocessing_and_optimization/raw/master/path/out/优化对比.png" width="60%" height="60%"></img> 
